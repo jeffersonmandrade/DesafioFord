@@ -1,4 +1,4 @@
-Equié Amarela.
+Equipe Amarela.
 
 Primeiro passo, criptografia de Julio Cesar;
 Segundo passo, passar para hexadecimal.
